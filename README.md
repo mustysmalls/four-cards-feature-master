@@ -13,8 +13,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [What I learned](#what-i-learned)
 - [Continued development](#continued-development)
 - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Author](Mustapha Abubakar)
+- [Acknowledgments](Frontend Mentor,W3schools,Coder coder)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -28,13 +28,13 @@ Four Card Feature Section Master
 
 ### Screenshot
 
-![](/screenshot/Desktop screenshot.png)
-![](/screenshot/Mobile screenshot.png)
+(screenshot/Desktop screenshot.png)
+(/screenshot/Mobile screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(hhttps://www.frontendmentor.io/solutions/responsive-four-cards-feature-using-css-grid-pNdOJb1UG
+- Live Site URL:(https://https://mustysmalls.github.io/four-cards-feature-master/
 
 ## My process
 
